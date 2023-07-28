@@ -1,5 +1,5 @@
 <code>👨‍💻 Senior JS Engineer </code>
-<code>✍️ [Technical Writer](https://dev.to/borysshulyak)</code> 
+<code>:writing_hand: [Technical Writer](https://dev.to/borysshulyak)</code> 
 <code>🌐 Open Source Contributor </code>
 
 ## Developer Tools
