@@ -12,8 +12,9 @@
 - TypeScript, Flow
 - GraphQL, Apollo Client, Apollo Server, Apollo Federation
 - Strapi, Jamstack
-- Rush.js
 - Jest, React Testing Library, Puppeteer
+- Rush.js
+- nvm, pnpm
 
 ## Articles
 
@@ -32,24 +33,6 @@
 - **[Make your monorepo CI better! Adjust rush.js changelog!](https://dev.to/borysshulyak/make-your-monorepo-ci-better-adjust-rushjs-changelog-3f0a)**
 - **[How to write great logs](https://dev.to/borysshulyak/how-to-write-great-logs-3ch8)**
 
-## Hardware
+## Open Source Contributions
 
-- **MacBook Pro M2 Pro 14'' 512GB Space Gray (MPHE3)**
-- **IPhone 13**
-- **AirPods 2 Pro**
-
-## Apps
-
-[Brave](https://brave.com/), [WebStorm](https://www.jetbrains.com/webstorm/), [Docker Desktop](https://www.docker.com/products/docker-desktop/), [pgAdmin4](https://www.pgadmin.org/), [Postman](https://www.postman.com/), [Slack](https://slack.com/), [Zoom](https://www.zoom.us/), [Gyazo](https://gyazo.com/), [Notion](https://www.notion.so/)
-
-## Browser DevTools
-
-[React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi), [Apollo Client Devtools](https://chrome.google.com/webstore/detail/apollo-client-devtools/jdkknkkbebbapilgoeccciglkfbmbnfm)
-
-## WebStrom Plugins
-
-[Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons), [Material Theme (Night Owl)](https://plugins.jetbrains.com/plugin/8006-material-theme-ui), [GraphQL](https://plugins.jetbrains.com/plugin/8097-graphql)
-
-## System Tools
-
-[nvm](https://github.com/nvm-sh/nvm), [pnpm](https://pnpm.io/)
+- [strapi-plugin-do-not-delete](https://github.com/mattmilburn/strapi-plugin-do-not-delete)
