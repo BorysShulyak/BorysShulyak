@@ -1,6 +1,6 @@
-<code> Senior JS Engineer </code>
-<code> [Technical Writer](https://dev.to/borysshulyak)</code> 
-<code> Open Source Contributor </code>
+<code>👨‍💻 Senior JS Engineer </code>
+<code>✍️ [Technical Writer](https://dev.to/borysshulyak)</code> 
+<code>🌐 Open Source Contributor </code>
 
 ## Developer Tools
 
