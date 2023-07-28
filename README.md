@@ -1,4 +1,6 @@
-`Senior JS Engineer`, `[Technical Writer](https://dev.to/borysshulyak)`, `Open Source Contributor`
+<code> Senior JS Engineer </code>
+<code> [Technical Writer](https://dev.to/borysshulyak)</code> 
+<code> Open Source Contributor </code>
 
 ## Developer Tools
 
