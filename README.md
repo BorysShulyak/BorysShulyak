@@ -40,28 +40,16 @@
 
 ## Apps
 
-- [Brave](https://brave.com/)
-- [WebStorm](https://www.jetbrains.com/webstorm/)
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
-- [pgAdmin4](https://www.pgadmin.org/)
-- [Postman](https://www.postman.com/)
-- [Slack](https://slack.com/)
-- [Zoom](https://www.zoom.us/)
-- [Gyazo](https://gyazo.com/)
-- [Notion](https://www.notion.so/)
+[Brave](https://brave.com/), [WebStorm](https://www.jetbrains.com/webstorm/), [Docker Desktop](https://www.docker.com/products/docker-desktop/), [pgAdmin4](https://www.pgadmin.org/), [Postman](https://www.postman.com/), [Slack](https://slack.com/), [Zoom](https://www.zoom.us/), [Gyazo](https://gyazo.com/), [Notion](https://www.notion.so/)
 
 ## Browser DevTools
 
-- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-- [Apollo Client Devtools](https://chrome.google.com/webstore/detail/apollo-client-devtools/jdkknkkbebbapilgoeccciglkfbmbnfm)
+[React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi), [Apollo Client Devtools](https://chrome.google.com/webstore/detail/apollo-client-devtools/jdkknkkbebbapilgoeccciglkfbmbnfm)
 
 ## WebStrom Plugins
 
-- [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
-- [Material Theme (Night Owl)](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
-- [GraphQL](https://plugins.jetbrains.com/plugin/8097-graphql)
+[Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons), [Material Theme (Night Owl)](https://plugins.jetbrains.com/plugin/8006-material-theme-ui), [GraphQL](https://plugins.jetbrains.com/plugin/8097-graphql)
 
 ## System Tools
 
-- [nvm](https://github.com/nvm-sh/nvm)
-- [pnpm](https://pnpm.io/)
+[nvm](https://github.com/nvm-sh/nvm), [pnpm](https://pnpm.io/)
