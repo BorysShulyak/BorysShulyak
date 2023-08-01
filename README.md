@@ -2,8 +2,8 @@
 <code>📚 [Technical Writer](https://dev.to/borysshulyak)</code> 
 <code>🌐 Open Source Contributor </code>
 
-## Developer Tools
-
+## Core Skills & Specialization
+**Software Development:**
 - JavaScript(ES6)
 - React, Next.js
 - Storybook
@@ -14,7 +14,10 @@
 - Strapi, Jamstack
 - Jest, React Testing Library, Puppeteer
 - Rush.js
-- nvm, pnpm
+
+**IT Operations:** GitLab CI/CD, Docker, Kubernetes, Graphana
+
+**Tooling:** nvm, pnpm
 
 ## Articles
 
