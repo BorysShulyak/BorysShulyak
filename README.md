@@ -3,21 +3,22 @@
 <code>🌐 Open Source Contributor </code>
 
 ## Core Skills & Specialization
-**Software Development:**
-- JavaScript(ES6)
-- React, Next.js
-- Storybook
-- MaterialUI
-- Redux,  Redux-Thunk, Redux-Saga
-- TypeScript, Flow
-- GraphQL, Apollo Client, Apollo Server, Apollo Federation
-- Strapi, Jamstack
-- Jest, React Testing Library, Puppeteer
-- Rush.js
-
-**IT Operations:** GitLab CI/CD, Docker, Kubernetes, Graphana
-
-**Tooling:** nvm, pnpm
+- **Software Development Practice/Methodologies:** CI/CD, Feature Branching, Scrum, Kanban, Code Review.
+- **Coding Principles** SOLID, GoF Patterns.
+- **Design Principles:** Event Sourcing, CQRS, GRASP, IoC, DI, Atomic.
+- **Software Development Tools:**
+  - JavaScript(ES6)
+  - React, Next.js
+  - Storybook
+  - MaterialUI
+  - Redux,  Redux-Thunk, Redux-Saga
+  - TypeScript, Flow
+  - GraphQL, Apollo Client, Apollo Server, Apollo Federation
+  - Strapi, Jamstack
+  - Jest, React Testing Library, Puppeteer, Wiremock, msw
+  - Rush.js
+- **IT Operations:** GitLab CI/CD, Docker, Kubernetes, Graphana
+- **Tooling:** nvm, pnpm
 
 ## Articles
 
