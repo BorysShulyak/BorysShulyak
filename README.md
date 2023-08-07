@@ -1,4 +1,4 @@
-<code>👨‍💻 Senior JS Engineer </code>
+<code>👨‍💻 Senior Software Engineer </code>
 <code>📚 [Technical Writer](https://dev.to/borysshulyak)</code> 
 <code>🌐 Open Source Contributor </code>
 
