@@ -42,5 +42,5 @@
 - [strapi-plugin-do-not-delete](https://github.com/mattmilburn/strapi-plugin-do-not-delete)
 
 ## ❤️ Support or Donate
-If you are enjoying this plugin and feel extra appreciative, you could [buy me a book](https://bmc.link/borisshulyak) 
+If you are enjoying my work and feel extra appreciative, you could [buy me a book](https://bmc.link/borisshulyak) 
 📖 or 3 📖📖📖.
