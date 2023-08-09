@@ -1,6 +1,7 @@
 <code>👨‍💻 Senior Software Engineer </code>
 <code>📚 [Technical Writer](https://dev.to/borysshulyak)</code> 
 <code>🌐 Open Source Contributor </code>
+<code>💜 Strapi Community Contributor </code>
 
 ## Core Skills & Specialization
 - **Software Development Practice/Methodologies:** CI/CD, Feature Branching, Scrum, Kanban, Code Review.
@@ -39,7 +40,8 @@
 
 ## Open Source Contributions
 
-- [strapi-plugin-do-not-delete](https://github.com/mattmilburn/strapi-plugin-do-not-delete)
+- `maintainer` - [strpai-plugin-field-formula](https://github.com/BorysShulyak/strapi-plugin-field-formula)
+- `contributor` - [strapi-plugin-do-not-delete](https://github.com/mattmilburn/strapi-plugin-do-not-delete)
 
 ## ❤️ Support or Donate
 If you are enjoying my work and feel extra appreciative, you could [buy me a book](https://bmc.link/borisshulyak) 
