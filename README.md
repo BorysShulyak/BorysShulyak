@@ -23,6 +23,7 @@
 
 ## Articles
 
+- **[Open Source: Strapi v4 - Formula field](https://dev.to/borysshulyak/open-source-strapi-v4-formula-field-46jd)**
 - **[Critical Chain](https://dev.to/borysshulyak/critical-chain-14am)**
 - **[Essential Principles for Seamless Updates, Robust Execution, and Uninterrupted Performance](https://dev.to/borysshulyak/essential-principles-for-seamless-updates-robust-execution-and-uninterrupted-performance-5bng)**
 - **[Mastering Time: The Key to Boosting Team Efficiency and Client Satisfaction](https://dev.to/borysshulyak/mastering-time-the-key-to-boosting-team-efficiency-and-client-satisfaction-2283)**
