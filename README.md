@@ -23,6 +23,7 @@
 
 ## Articles
 
+- **[🛑 Stop covering ALL the Components with Integration tests 🛑](https://dev.to/borysshulyak/stop-covering-all-the-components-with-integration-tests-m0a)**
 - **[Way to High Confidence: The Ideal Testing Trophy](https://dev.to/borysshulyak/high-confidence-testing-levels-1n1m)**
 - **[Open Source: Strapi v4 - Formula field](https://dev.to/borysshulyak/open-source-strapi-v4-formula-field-46jd)**
 - **[Critical Chain](https://dev.to/borysshulyak/critical-chain-14am)**
