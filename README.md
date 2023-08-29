@@ -44,6 +44,7 @@
 ## Open Source Contributions
 
 - `maintainer` - [strpai-plugin-field-formula](https://github.com/BorysShulyak/strapi-plugin-field-formula)
+- `contributor` - [strapi](https://github.com/strapi/strapi)
 - `contributor` - [strapi-plugin-do-not-delete](https://github.com/mattmilburn/strapi-plugin-do-not-delete)
 
 ## ❤️ Support or Donate
