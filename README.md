@@ -45,9 +45,10 @@
 ## Open Source Contributions
 
 - `maintainer` - [strpai-plugin-field-formula](https://github.com/BorysShulyak/strapi-plugin-field-formula)
+- `maintainer` - [eslint-disable-files](https://github.com/BorysShulyak/eslint-disable-files)
+- `maintainer` - [eslint-config-base](https://github.com/BorysShulyak/eslint-config-base)
 - `contributor` - [strapi](https://github.com/strapi/strapi)
 - `contributor` - [strapi-plugin-do-not-delete](https://github.com/mattmilburn/strapi-plugin-do-not-delete)
-- `contributor` - [eslint-disable-files](https://github.com/BorysShulyak/eslint-disable-files)
 
 ## ❤️ Support or Donate
 If you are enjoying my work and feel extra appreciative, you could [buy me a book](https://bmc.link/borisshulyak) 
