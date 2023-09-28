@@ -15,6 +15,7 @@
   - Redux,  Redux-Thunk, Redux-Saga
   - TypeScript, Flow
   - GraphQL, Apollo Client, Apollo Server, Apollo Federation
+  - SignalR (Client Side)
   - Strapi, Jamstack
   - Jest, React Testing Library, Puppeteer, Wiremock, msw
   - Rush.js
