@@ -8,17 +8,15 @@
 - **Coding Principles** SOLID, GoF Patterns.
 - **Design Principles:** Event Sourcing, CQRS, GRASP, IoC, DI, Atomic.
 - **Software Development Tools:**
-  - JavaScript(ES6)
-  - React, Next.js
-  - Storybook
-  - MaterialUI
-  - Redux,  Redux-Thunk, Redux-Saga
-  - TypeScript, Flow
+  - JavaScript, TypeScript, Node.js
+  - React, Next.js, Astro
+  - Storybook, MaterialUI
+  - Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga
   - GraphQL, Apollo Client, Apollo Server, Apollo Federation
-  - SignalR (Client Side)
   - Strapi, Jamstack
-  - Jest, React Testing Library, Puppeteer, Wiremock, msw
-  - Rush.js
+  - Jest, React Testing Library, Wiremock, msw, Puppeteer, Cypress
+  - Rush.js, ESlint, Prettier
+  - SignalR (Client Side)
 - **IT Operations:** GitLab CI/CD, Docker, Kubernetes, Graphana
 - **Tooling:** nvm, pnpm
 
