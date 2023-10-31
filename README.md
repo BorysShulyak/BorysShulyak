@@ -5,8 +5,9 @@
 
 ## Core Skills & Specialization
 - **Software Development Practice/Methodologies:** CI/CD, Feature Branching, Scrum, Kanban, Code Review.
-- **Coding Principles** SOLID, GoF Patterns.
-- **Design Principles:** Event Sourcing, CQRS, GRASP, IoC, DI, Atomic.
+- **Design Principles:** SOLID, DRY, KISS, YAGNI.
+- **Desing Patterns:** GoF, GRASP, DI, IoC, Atomic.
+- **Architecture:** DDD, Event Sourcing, CQRS, Microservices.
 - **Software Development Tools:**
   - JavaScript, TypeScript, Node.js
   - React, Next.js, Astro
