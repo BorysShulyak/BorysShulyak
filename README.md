@@ -18,7 +18,7 @@
   - Jest, React Testing Library, Wiremock, msw, Puppeteer, Cypress
   - Rush.js, ESlint, Prettier
   - SignalR (Client Side)
-- **IT Operations:** GitLab CI/CD, Docker, Kubernetes, Graphana
+- **IT Operations:** GitLab CI, Docker, Kubernetes, Graphana, Kibana, GCP
 - **Tooling:** nvm, pnpm
 
 ## Articles
