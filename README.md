@@ -11,9 +11,9 @@
 - **Software Development Tools:**
   - JavaScript, TypeScript, Node.js
   - React, Next.js, Astro
-  - Storybook, MaterialUI
-  - Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga
+  - Storybook, MaterialUI, shadcn/ui, Tailwind CSS
   - GraphQL, Apollo Client, Apollo Server, Apollo Federation
+  - Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga
   - Strapi, Jamstack
   - Jest, React Testing Library, Wiremock, msw, Puppeteer, Cypress
   - Rush.js, ESlint, Prettier
