@@ -4,7 +4,7 @@
 <code>💜 Strapi Community Contributor </code>
 
 ## Core Skills & Specialization
-- **Software Development Practice/Methodologies:** CI/CD, Feature Branching, Scrum, Kanban, Code Review.
+- **Software Development Practices/Methodologies:** CI/CD, Feature Branching, Scrum, Kanban, Code Review.
 - **Design Principles:** SOLID, DRY, KISS, YAGNI.
 - **Desing Patterns:** GoF, GRASP, DI, IoC, Atomic.
 - **Architecture:** DDD, Event Sourcing, CQRS, Microservices.
