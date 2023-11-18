@@ -1,4 +1,4 @@
-<code>👨‍💻 Senior Software Engineer </code>
+<code>👨‍💻 Senior Software Engineer / Tech Lead</code>
 <code>📚 [Technical Writer](https://dev.to/borysshulyak)</code> 
 <code>🌐 Open Source Contributor </code>
 <code>💜 Strapi Community Contributor </code>
