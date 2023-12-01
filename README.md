@@ -13,12 +13,13 @@
   - React, Next.js, Astro
   - Storybook, MaterialUI, shadcn UI, Tailwind CSS, Radix UI
   - GraphQL, Apollo Client, Apollo Server, Apollo Federation
-  - Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga, zustand
+  - Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga, zustand, Tanstack Query
   - React Hook Form, Survey.js
   - Strapi, Jamstack
   - Jest, React Testing Library, Wiremock, msw, Puppeteer, Cypress
   - Rush.js, ESlint, Prettier
   - SignalR (Client Side)
+  - visx, ag-grid, tanstack/table
 - **IT Operations:** GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
 - **Tooling:** nvm, pnpm
 
