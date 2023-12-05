@@ -19,7 +19,7 @@
   - Jest, React Testing Library, Wiremock, msw, Puppeteer, Cypress
   - Rush.js, ESlint, Prettier
   - SignalR (Client Side)
-  - visx, ag-grid, tanstack/table
+  - visx, Ag Grid, Tanstack Table
 - **IT Operations:** GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
 - **Tooling:** nvm, pnpm
 
