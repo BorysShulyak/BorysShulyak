@@ -10,16 +10,16 @@
 - **Architecture:** DDD, Event Sourcing, CQRS, Microservices.
 - **Software Development Tools:**
   - JavaScript, TypeScript, Node.js
-  - React, Next.js, Astro
-  - Storybook, MaterialUI, shadcn UI, Tailwind CSS, Radix UI
+  - React, Next.js, Astro, Vite
+  - Storybook, MaterialUI, shadcn UI, Tailwind CSS, Radix UI, visx, Ag Grid, Tanstack Table, d3.js
   - GraphQL, Apollo Client, Apollo Server, Apollo Federation
   - Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga, zustand, Tanstack Query
   - React Hook Form, Survey.js
   - Strapi, Jamstack
   - Jest, React Testing Library, Wiremock, msw, Puppeteer, Cypress
-  - Rush.js, ESlint, Prettier
+  - Rush.js
   - SignalR (Client Side)
-  - visx, Ag Grid, Tanstack Table
+- **Code Quality**: ESlint, Prettier, Danger.js, jscpd
 - **IT Operations:** GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
 - **Tooling:** nvm, pnpm
 
