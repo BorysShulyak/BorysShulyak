@@ -47,6 +47,7 @@
 
 ## Open Source Contributions
 
+- `maintainer` - [runespoor-archive](https://github.com/BorysShulyak/runespoor-archive)
 - `maintainer` - [strpai-plugin-field-formula](https://github.com/BorysShulyak/strapi-plugin-field-formula)
 - `maintainer` - [eslint-disable-files](https://github.com/BorysShulyak/eslint-disable-files)
 - `maintainer` - [eslint-config-base](https://github.com/BorysShulyak/eslint-config-base)
