@@ -10,7 +10,7 @@
 - **Architecture:** DDD, Event Sourcing, CQRS, Microservices.
 - **Software Development Tools:**
   - JavaScript, TypeScript, Node.js
-  - React, Next.js, Astro, Vite
+  - React, Next.js, Vite, Astro, Docusaurus
   - Storybook, MaterialUI, shadcn UI, Tailwind CSS, Radix UI, visx, Ag Grid, Tanstack Table, d3.js
   - GraphQL, Apollo Client, Apollo Server, Apollo Federation
   - Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga, zustand, Tanstack Query
