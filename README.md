@@ -1,7 +1,7 @@
 <code>👨‍💻 Senior Software Engineer / Tech Lead</code>
-<code>📚 [Technical Writer](https://dev.to/borysshulyak)</code> 
-<code>🌐 Open Source Contributor </code>
-<code>💜 Strapi Community Contributor </code>
+<code>🐍 [Founder of Runespoor Engineering](https://github.com/runespoor-engineering)</code>
+<code>📚 [Technical Writer](https://dev.to/borysshulyak)</code>
+<code>🌐 Open Source Contributor</code>
 
 ## Core Skills & Specialization
 - **Software Development Practices/Methodologies:** CI/CD, Feature Branching, Scrum, Kanban, Code Review.
@@ -47,10 +47,10 @@
 
 ## Open Source Contributions
 
+- `maintainer` - [@runespoor/eslint-config](https://github.com/runespoor-engineering/runespoorstack/tree/main/eslint/eslint-config)
 - `maintainer` - [runespoor-archive](https://github.com/BorysShulyak/runespoor-archive)
 - `maintainer` - [strpai-plugin-field-formula](https://github.com/BorysShulyak/strapi-plugin-field-formula)
 - `maintainer` - [eslint-disable-files](https://github.com/BorysShulyak/eslint-disable-files)
-- `maintainer` - [eslint-config-base](https://github.com/BorysShulyak/eslint-config-base)
 - `contributor` - [strapi](https://github.com/strapi/strapi)
 - `contributor` - [strapi-plugin-do-not-delete](https://github.com/mattmilburn/strapi-plugin-do-not-delete)
 
