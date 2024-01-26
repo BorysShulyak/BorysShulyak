@@ -47,12 +47,13 @@
 
 ## Open Source Contributions
 
-- `maintainer` - [@runespoor/eslint-config](https://github.com/runespoor-engineering/runespoorstack/tree/main/eslint/eslint-config)
-- `maintainer` - [runespoor-archive](https://github.com/BorysShulyak/runespoor-archive)
-- `maintainer` - [strpai-plugin-field-formula](https://github.com/BorysShulyak/strapi-plugin-field-formula)
-- `maintainer` - [eslint-disable-files](https://github.com/BorysShulyak/eslint-disable-files)
-- `contributor` - [strapi](https://github.com/strapi/strapi)
-- `contributor` - [strapi-plugin-do-not-delete](https://github.com/mattmilburn/strapi-plugin-do-not-delete)
+| Maintainer                    | Contributor                                      |
+|------------------------------|--------------------------------------------------|
+| [@runespoor/eslint-config](https://github.com/runespoor-engineering/runespoorstack/tree/main/eslint/eslint-config) | [strapi](https://github.com/strapi/strapi)                 |
+| [runespoor-archive](https://github.com/BorysShulyak/runespoor-archive)            | [strapi-plugin-do-not-delete](https://github.com/mattmilburn/strapi-plugin-do-not-delete) |
+| [strpai-plugin-field-formula](https://github.com/BorysShulyak/strapi-plugin-field-formula) |                                                  |
+| [eslint-disable-files](https://github.com/BorysShulyak/eslint-disable-files)       |                                                |
+
 
 ## ❤️ Support or Donate
 If you are enjoying my work and feel extra appreciative, you could [buy me a book](https://bmc.link/borisshulyak) 
