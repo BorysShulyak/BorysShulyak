@@ -55,7 +55,7 @@
 | [eslint-disable-files](https://github.com/BorysShulyak/eslint-disable-files)       |                                                |
 ## 💕 Special Thanks
 
-- I want to say thank you to the best woman in the world, **my wife Diana** for her love, daily support, motivation and inspiration.
+I want to say thank you to the best woman in the world, **my wife Diana** for her love, daily support, motivation and inspiration.
 
 ## ❤️ Support or Donate
 If you are enjoying my work and feel extra appreciative, you could [buy me a book](https://bmc.link/borisshulyak) 
