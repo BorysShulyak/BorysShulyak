@@ -13,8 +13,8 @@
   - React, Next.js, Vite, Astro, Docusaurus
   - MaterialUI, shadcn UI, Tailwind CSS, Radix UI, visx, Ag Grid, Tanstack Table, d3.js
   - GraphQL, Apollo Client, Apollo Server, Apollo Federation
-  - Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga, zustand, Tanstack Query
-  - React Hook Form, Survey.js
+  - Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga, Zustand, Tanstack Query
+  - React Hook Form, Survey.js, yup, zod
   - Strapi, Jamstack
   - Storybook, Jest, Vitest, React Testing Library, Puppeteer, Cypress, Wiremock, msw
   - Rush.js
