@@ -19,7 +19,7 @@
   - Storybook, Jest, Vitest, React Testing Library, Puppeteer, Cypress, Wiremock, msw
   - Rush.js
   - SignalR (Client Side)
-- **Code Quality**: ESlint, Prettier, Danger.js, jscpd
+- **Code Quality**: ESlint, Prettier, Danger.js, jscpd, unimported
 - **IT Operations:** GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
 - **Tooling:** nvm, pnpm
 
