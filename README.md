@@ -16,7 +16,7 @@
   - Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga, Zustand, Tanstack Query
   - React Hook Form, Survey.js, yup, zod
   - Strapi, Jamstack
-  - Storybook, Jest, Vitest, React Testing Library, Puppeteer, Cypress, Wiremock, msw
+  - Storybook, Chromatic, Jest, Vitest, React Testing Library, Puppeteer, Cypress, Wiremock, msw
   - Rush.js
   - SignalR (Client Side)
 - **Code Quality**: ESlint, Prettier, Danger.js, jscpd, unimported
