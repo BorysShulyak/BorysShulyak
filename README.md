@@ -4,7 +4,7 @@
 - <code>🌐 [Open Source Contributor](https://github.com/BorysShulyak#open-source-contributions)</code>
 
 ## Core Skills & Specialization
-- **Software Development Practices/Methodologies:** CI/CD, Feature Branching, Scrum, Kanban, Code Review.
+- **Software Development Practices/Methodologies:** CI/CD(Trunk Based, Countinuous Deployment), Scrum, Kanban, Code Review.
 - **Design Principles:** SOLID, DRY, KISS, YAGNI.
 - **Desing Patterns:** GoF, GRASP, DI, IoC, Atomic.
 - **Architecture:** DDD, Event Sourcing, CQRS, Microservices.
