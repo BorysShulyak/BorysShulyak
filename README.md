@@ -3,6 +3,8 @@
 - <code>📚 [Technical Writer](https://dev.to/borysshulyak)</code>
 - <code>🌐 [Open Source Contributor](https://github.com/BorysShulyak#open-source-contributions)</code>
 
+<a href="https://www.buymeacoffee.com/borisshulyak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Core Skills & Specialization
 - **Software Development Practices/Methodologies:** CI/CD(Trunk Based, Countinuous Deployment), Scrum, Kanban, Code Review.
 - **Design Principles:** SOLID, DRY, KISS, YAGNI.
