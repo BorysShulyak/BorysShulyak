@@ -11,15 +11,14 @@
 - **Software Development Tools:**
   - JavaScript, TypeScript, Node.js
   - React, Next.js, Astro, Docusaurus
-  - MaterialUI, ShadcnUI, TailwindCSS, RadixUI
+  - MaterialUI, ShadcnUI, RadixUI, TailwindCSS, JSS
   - GraphQL, Apollo Client, Apollo Server, Apollo Federation
   - Tanstack Query, Zustand, Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga
   - Strapi, Jamstack
   - Storybook, Chromatic, Jest, Vitest, React Testing Library, Puppeteer, Cypress, Wiremock, msw
   - Rush.js, pnpm
   - React Hook Form, Survey.js, yup, zod
-  - visx, Ag Grid, Tanstack Table, d3.js
-  - SignalR (Client Side)
+  - visx, Ag Grid, Tanstack Table, d3.js, chart.js
 - **Code Quality**: ESlint, Prettier, Danger.js, jscpd, unimported
 - **IT Operations:** GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
 - **Tooling:** nvm
