@@ -13,6 +13,7 @@
 - **Software Development Tools:**
   - JavaScript, TypeScript, Node.js
   - React, Next.js, Astro, Docusaurus
+  - Vite
   - MaterialUI, ShadcnUI, RadixUI, TailwindCSS, JSS
   - GraphQL, Apollo Client, Apollo Server, Apollo Federation
   - Tanstack Query, Zustand, Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga
@@ -23,7 +24,7 @@
   - visx, Ag Grid, Tanstack Table, d3.js, chart.js
 - **Code Quality**: ESlint, Prettier, Danger.js, jscpd, unimported
 - **IT Operations:** GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
-- **Tooling:** nvm
+- **Tooling:** Copilot, nvm, ngrok
 
 ## Craft
 
