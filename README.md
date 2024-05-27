@@ -6,7 +6,7 @@
 <a href="https://www.buymeacoffee.com/borisshulyak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Core Skills & Specialization
-- **Software Development Practices/Methodologies:** CI/CD(Trunk Based, Countinuous Deployment), Scrum, Kanban, Code Review.
+- **Software Development Practices/Methodologies:** CI/CD(Trunk Based, Countinuous Deployment), TDD, Code Review, Scrum, Kanban
 - **Design Principles:** SOLID, DRY, KISS, YAGNI.
 - **Desing Patterns:** GoF, GRASP, DI, IoC, Atomic.
 - **Architecture:** DDD, Event Sourcing, CQRS, Microservices.
