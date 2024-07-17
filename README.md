@@ -6,21 +6,23 @@
 <a href="https://www.buymeacoffee.com/borisshulyak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Core Skills & Specialization
-- **Software Development Practices/Methodologies:** CI/CD(Trunk Based, Countinuous Deployment), TDD, Code Review, Scrum, Kanban, Jamstack
-- **Design Principles:** SOLID, DRY, KISS, YAGNI.
+- **Software Development Practices/Methodologies:** CI/CD(Trunk Based, Countinuous Deployment/Delivery), TDD, Code Review, Scrum, Kanban, Jamstack
+- **Design Principles:** SOLID, DRY, KISS, YAGNI, LoD.
 - **Desing Patterns:** GoF, GRASP, DI, IoC, Atomic.
 - **Architecture:** DDD, Event Sourcing, CQRS, Microservices, Clean Architecture
-- **Software Development Tools:**
-  - JavaScript, TypeScript, Node.js
+- **Frontend Development Tools:**
+  - JavaScript, TypeScript
   - React, Next.js, Astro, Docusaurus
-  - Vite
+  - Vite, Webpack
+  - Apollo Client, Tanstack Query, Zustand, Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga
   - MaterialUI, ShadcnUI, RadixUI, TailwindCSS, JSS
-  - GraphQL, Apollo Client, Apollo Server, Apollo Federation
-  - Tanstack Query, Zustand, Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga
-  - Strapi
-  - Rush.js, pnpm
-  - React Hook Form, Survey.js, yup, zod
+  - React Hook Form, Survey.js, yup / zod
   - visx, Ag Grid, Tanstack Table, d3.js, chart.js
+- **Backend Development Tools:**
+  - Node.js
+  - GraphQL, Apollo Server, Apollo Federation
+  - Strapi
+- **Monorepo Development Tools:** Rush.js, pnpm
 - **Testing Tools**: Storybook, Chromatic, Jest, Vitest, React Testing Library, Puppeteer, Cypress, Wiremock, msw
 - **Code Quality**: ESlint, Prettier, Danger.js, jscpd, unimported
 - **IT Operations:** GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
