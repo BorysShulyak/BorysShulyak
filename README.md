@@ -20,7 +20,7 @@
   - visx, Ag Grid, Tanstack Table, d3.js, chart.js
 - **Backend Development Tools:**
   - Node.js
-  - GraphQL, Apollo Server, Apollo Federation
+  - GraphQL, Apollo Server, Apollo Subscription, Apollo Federation
   - Strapi
 - **Monorepo Development Tools:** Rush.js, pnpm
 - **Testing Tools**: Storybook, Chromatic, Jest, Vitest, React Testing Library, Puppeteer, Cypress, Wiremock, msw
