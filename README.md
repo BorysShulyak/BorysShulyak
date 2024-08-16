@@ -1,6 +1,6 @@
 - <code>👨‍💻 [Frontend Tech Lead](https://www.linkedin.com/in/boris-shulyak-1a3b441b7)</code>
 - <code>🐍 [Founder of Runespoor Engineering](https://github.com/runespoor-engineering)</code>
-- <code>📚 [Technical Writer](https://dev.to/borysshulyak)</code>
+- <code>📚 [Technical Writer](https://substack.com/@runespoor)</code>
 - <code>🌐 [Open Source Contributor](https://github.com/BorysShulyak#open-source-contributions)</code>
 
 <a href="https://www.buymeacoffee.com/borisshulyak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
