@@ -7,8 +7,8 @@
 
 ## Core Skills & Specialization
 - **Software Development Practices/Methodologies:** CI/CD(Trunk Based, Countinuous Deployment/Delivery), TDD, Code Review, Scrum, Kanban, Jamstack
-- **Design Principles:** SOLID, DRY, KISS, YAGNI, LoD.
-- **Desing Patterns:** GoF, GRASP, DI, IoC, Atomic.
+- **Design Principles:** SOLID, DRY, KISS, YAGNI, LoD, Atomic.
+- **Desing Patterns:** GoF, GRASP, DI, IoC.
 - **Architecture:** DDD, Event Sourcing, CQRS, Microservices, Clean Architecture
 - **Frontend Development Tools:**
   - JavaScript, TypeScript
