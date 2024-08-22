@@ -24,7 +24,7 @@
   - Strapi
 - **Monorepo Development Tools:** Rush.js, pnpm
 - **Testing Tools**: Storybook, Chromatic, Jest, Vitest, React Testing Library, Puppeteer, Cypress, Wiremock, msw
-- **Code Quality**: ESlint, Prettier, Danger.js, jscpd, unimported
+- **Code Quality**: ESlint, Prettier, SonarCloud, Danger.js, jscpd, unimported
 - **IT Operations:** GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
 - **Tooling:** Copilot, nvm, ngrok
 
