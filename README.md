@@ -10,6 +10,8 @@
 - **Design Principles:** SOLID, GRASP, DRY, YAGNI, LoD, Atomic.
 - **Desing Patterns:** GoF, DI, IoC.
 - **Architecture:** DDD, Event Sourcing, CQRS, Microservices, Clean Architecture
+
+## Tools
 - **Frontend Development Tools:**
   - JavaScript, TypeScript
   - React, Next.js, Astro, Docusaurus
@@ -19,9 +21,10 @@
   - React Hook Form, Survey.js, yup / zod
   - visx, Ag Grid, Tanstack Table, d3.js, chart.js
 - **Backend Development Tools:**
-  - Node.js
+  - Node.js, Nest.js
   - GraphQL, Apollo Server, Apollo Subscription, Apollo Federation
   - Strapi
+  - PostgreSQL
 - **Monorepo Development Tools:** Rush.js, pnpm
 - **Testing Tools**: Storybook, Chromatic, Jest, Vitest, React Testing Library, Puppeteer, Cypress, Wiremock, msw
 - **Code Quality**: ESlint, Prettier, SonarCloud, Danger.js, jscpd, unimported
