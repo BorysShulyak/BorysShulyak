@@ -37,7 +37,7 @@
 |------------------------------|--------------------------------------------------|
 | 📚 [Runespoor Archive: Engineering Playbook](https://runespoor-engineering.github.io/runespoorstack/docs/engineering-playbook/engineering-playbook-checklist) | Runespoor Archive is a set of documents that may help you to increase overall efficiency for team members and the whole team in general, and to strive to be better engineers |
 | 🚯 [Runespoor Eslint Config](https://www.npmjs.com/package/@runespoorstack/eslint-config) | Battle-tested, ready for production set of Runespoor ESlint configs. |
-| ⌚ [Runespoor Timezones](https://www.npmjs.com/package/@runespoorstack/timezones) | The full list of timezones, their names, country codes, and gmt offsets. |
+| ⌚ [Runespoor Feature Toggles](https://www.npmjs.com/package/@runespoorstack/feature-toggles-imperative) | Imperative feature toggles as code for JavaScript and TypeScript. |
 | 📐 [Strapi Formula Field](https://market.strapi.io/plugins/strapi-plugin-field-formula) | A Custom Field plugin for Strapi Headless CMS that provides an integration with powerful math library. |
 
 ## Open Source Contributions
