@@ -39,7 +39,6 @@
 | 🚯 [Runespoor Eslint Config](https://www.npmjs.com/package/@runespoorstack/eslint-config) | Battle-tested, ready for production set of Runespoor ESlint configs. |
 | ⌚ [Runespoor Feature Toggles](https://www.npmjs.com/package/@runespoorstack/feature-toggles-imperative) | Imperative feature toggles as code for JavaScript and TypeScript. |
 | 📐 [Strapi Formula Field](https://market.strapi.io/plugins/strapi-plugin-field-formula) | A Custom Field plugin for Strapi Headless CMS that provides an integration with powerful math library. |
-                                               |
 ## 💕 Special Thanks
 
 I want to say thank you to the best woman in the world, **my wife Diana** for her love, daily support, motivation, and inspiration.
