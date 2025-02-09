@@ -21,11 +21,12 @@
   - visx, Ag Grid, Tanstack Table, d3.js, chart.js
 - **Backend Development Tools:**
   - Node.js, Nest.js
+  - Go, Fiber
   - GraphQL, Apollo Server, Apollo Subscription, Apollo Federation
   - Strapi
-  - PostgreSQL
+  - PostgreSQL, Mongo
 - **Monorepo Development Tools:** Rush.js, pnpm
-- **Testing Tools**: Storybook, Chromatic, Jest, Vitest, React Testing Library, Puppeteer, Cypress, Wiremock, msw
+- **Testing Tools**: Storybook, Chromatic, Jest, Vitest, React Testing Library, Playwright, Wiremock, msw
 - **Code Quality**: ESlint, Prettier, SonarCloud, Danger.js, jscpd, unimported
 - **IT Operations:** GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
 - **Tooling:** Copilot, nvm, ngrok
