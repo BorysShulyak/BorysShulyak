@@ -10,26 +10,17 @@
 - **Desing Patterns:** GoF, DI, IoC.
 - **Architecture:** DDD, Event Sourcing, CQRS, Microservices, Clean Architecture
 
-## Tools
-- **Frontend Development Tools:**
-  - JavaScript, TypeScript
-  - React, Next.js, Astro, Docusaurus
-  - Vite, Webpack
-  - Apollo Client, Tanstack Query, Zustand, Redux, Redux-Toolkit, Redux-Thunk, Redux-Saga
-  - MaterialUI, ShadcnUI, RadixUI, TailwindCSS, JSS
-  - React Hook Form, Survey.js, yup / zod
-  - visx, Ag Grid, Tanstack Table, d3.js, chart.js
-- **Backend Development Tools:**
-  - Node.js, Nest.js
-  - Go, Fiber
-  - GraphQL, Apollo Server, Apollo Subscription, Apollo Federation
-  - Strapi
-  - PostgreSQL, Mongo
-- **Monorepo Development Tools:** Rush.js, pnpm
-- **Testing Tools**: Storybook, Chromatic, Jest, Vitest, React Testing Library, Playwright, Wiremock, msw
-- **Code Quality**: ESlint, Prettier, SonarCloud, Danger.js, jscpd, unimported
-- **IT Operations:** GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
-- **Tooling:** Copilot, nvm, ngrok
+## Ecosystems
+- JavaScript, TypeScript
+- React, Next.js, Astro
+- Node.js, Nest.js, Apollo
+- GraphQL
+- Golang
+- PostrgeSQL, Mongo
+- Monorepo: Rush.js, pnpm
+- Testing: Storybook, Chromatic, Jest, Vitest, React Testing Library, Playwright, Wiremock, msw
+- Code Quality: ESlint, Prettier, SonarCloud, Danger.js, jscpd, unimported
+- IT Operations: GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
 
 ## Craft
 
