@@ -5,10 +5,10 @@
 <a href="https://www.buymeacoffee.com/borisshulyak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Core Skills & Specialization
-- **Software Development Practices/Methodologies:** CI/CD(Trunk Based, Continuous Delivery/Deployment), TDD, Design Review, Code Review, Scrum, Kanban, Jamstack
-- **Design Principles:** SOLID, GRASP, DRY, YAGNI, LoD, Atomic.
+- **Software Development Practices/Methodologies:** Extream Programming, CI/CD(Trunk Based, Continuous Delivery/Deployment), DevOps, Design Review, Code Review
+- **Design Principles:** Clean Code, SOLID, GRASP, LoD, DRY(AHA), YAGNI, Atomic.
 - **Desing Patterns:** GoF, DI, IoC.
-- **Architecture:** DDD, Event Sourcing, CQRS, Microservices, Clean Architecture
+- **Architecture:** DDD, Clean Architecture, Event Sourcing, CQRS, Microservices, Jamstack
 
 ## Ecosystems
 - JavaScript, TypeScript
@@ -17,10 +17,10 @@
 - GraphQL
 - Golang
 - PostrgeSQL, Mongo
-- Monorepo: Rush.js, pnpm
-- Testing: Storybook, Chromatic, Jest, Vitest, React Testing Library, Playwright, Wiremock, msw
-- Code Quality: ESlint, Prettier, SonarCloud, Danger.js, jscpd, unimported
-- IT Operations: GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
+- **Monorepo**: Rush.js, pnpm
+- **Testing**: Storybook, Chromatic, Jest, Vitest, React Testing Library, Playwright, Wiremock, msw
+- **Code Quality**: ESlint, Prettier, SonarCloud, Danger.js, jscpd, unimported
+- **IT Operations**: GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
 
 ## Craft
 
