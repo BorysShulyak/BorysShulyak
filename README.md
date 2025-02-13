@@ -9,6 +9,7 @@
 - **Design Principles:** Clean Code, SOLID, GRASP, LoD, DRY(AHA), YAGNI, Atomic.
 - **Desing Patterns:** GoF, DI, IoC.
 - **Architecture:** DDD, Clean Architecture, Event Sourcing, CQRS, Microservices, Jamstack
+- **Domains**: Gambling, Affiliate Marketing, HR Tech, Property Tech
 
 ## Ecosystems
 - JavaScript, TypeScript
