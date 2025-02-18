@@ -10,14 +10,10 @@
 - **Desing Patterns:** GoF, DI, IoC.
 - **Architecture:** DDD, Clean Architecture, Event Sourcing, CQRS, Microservices, Jamstack
 - **Domains**: Gambling, Affiliate Marketing, HR Tech, Property Tech
-
-## Ecosystems
-- JavaScript, TypeScript
-- React, Next.js, Astro
-- Node.js, Nest.js, Apollo
-- GraphQL
-- Golang
-- PostrgeSQL, Mongo
+- **Languages**: JavaScript, TypeScript, Golang
+- **Client side**: React/Next.js, Astro
+- **Server side**: Node.js/Nest.js, GraphQL/Apollo
+- **DB**: PostrgeSQL, Mongo
 - **Monorepo**: Rush.js, pnpm
 - **Testing**: Storybook, Chromatic, Jest, Vitest, React Testing Library, Playwright, Wiremock, msw
 - **Code Quality**: ESlint, Prettier, SonarCloud, Danger.js, jscpd, unimported
