@@ -3,8 +3,6 @@
 - <code>🌐 [Open Source Contributor](https://github.com/BorysShulyak#craft)</code>
 - <code>📝 [Technical Writer](https://runespoor.substack.com)</code>
 
-<a href="https://www.buymeacoffee.com/borisshulyak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ## Core Skills & Specialization
 - **Software Development Practices/Methodologies:** Extream Programming, CI/CD(Trunk Based, Continuous Delivery/Deployment), DevOps, Design Review, Code Review
 - **Design Principles:** Clean Code, SOLID, GRASP, LoD, DRY(AHA), YAGNI, Atomic.
@@ -32,7 +30,3 @@
 ## 💕 Special Thanks
 
 I want to say thank you to the best woman in the world, **my wife Diana** for her love, daily support, motivation, and inspiration.
-
-## ❤️ Support or Donate
-If you are enjoying my work and feel extra appreciative, you could [buy me a book](https://bmc.link/borisshulyak) 
-📖 or 3 📖📖📖.
