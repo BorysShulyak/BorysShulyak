@@ -1,4 +1,4 @@
-- <code>👨‍💻 [Tech Lead](https://www.linkedin.com/in/boris-shulyak-1a3b441b7)</code>
+- <code>👨‍💻 [Tech Lead](https://ua.linkedin.com/in/boris-shuliak-1a3b441b7)</code>
 - <code>🐍 [Founder of Runespoor Engineering](https://github.com/runespoor-engineering)</code>
 - <code>🌐 [Open Source Contributor](https://github.com/BorysShulyak#craft)</code>
 - <code>📝 [Technical Writer](https://runespoor.substack.com)</code>
