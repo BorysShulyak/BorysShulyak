@@ -11,7 +11,7 @@
 - **Domains**: Gambling, Affiliate Marketing, HR Tech, Property Tech
 - **Languages**: JavaScript, TypeScript, Golang
 - **Client side**: React/Next.js, Astro
-- **Server side**: Node.js/Nest.js, GraphQL/Apollo, Go
+- **Server side**: Node.js/Nest.js, GraphQL/Apollo, Go, Strapi
 - **DB**: PostrgeSQL, Mongo
 - **Monorepo**: Rush.js, pnpm
 - **Testing**: Storybook, Chromatic, Jest, Vitest, React Testing Library, Playwright, Wiremock, msw
