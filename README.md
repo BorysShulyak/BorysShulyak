@@ -18,6 +18,9 @@
 - **Code Quality**: ESlint, Prettier, SonarCloud, Danger.js, jscpd, unimported
 - **IT Operations**: GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
 
+## Additional Skills and Specialization
+- **Engineering Culture**: Knowledge Sharings, Playbook Maintanance, Continuous Learning
+
 ## Craft
 
 | Project                    | Descriptiobn                                      |
