@@ -3,15 +3,6 @@
 - <code>🌐 [Open Source Contributor](https://github.com/BorysShulyak#craft)</code>
 - <code>📝 [Technical Writer](https://runespoor.substack.com)</code>
 
-DFDSFFSDF
-S
-
-
-
-
-
-SDFSDF
-
 ## Core Skills & Specialization
 - **Software Development Practices/Methodologies:** Agile, Extream Programming, CI/CD(Trunk Based, Continuous Delivery/Deployment), DevOps, Design Review, Code Review
 - **Design Principles:** Clean Code, SOLID, GRASP, LoD, DRY(AHA), YAGNI
