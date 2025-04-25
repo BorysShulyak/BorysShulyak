@@ -4,7 +4,7 @@
 - <code>📝 [Technical Writer](https://runespoor.substack.com)</code>
 
 ## Core Skills & Specialization
-- **Software Development Practices/Methodologies:** Agile, Extream Programming, CI/CD(Trunk Based, Continuous Delivery/Deployment), DevOps, Design Review, Code Review
+- **Software Development Practices/Methodologies:** Agile, Extreme Programming, CI/CD(Trunk Based, Continuous Delivery/Deployment), DevOps, Design Review, Code Review
 - **Design Principles:** Clean Code, SOLID, GRASP, LoD, DRY(AHA), YAGNI
 - **Desing Patterns:** GoF, DI, IoC.
 - **Architecture:** DDD, Clean Architecture, Event Sourcing, CQRS, Microservices, Jamstack
