@@ -5,7 +5,7 @@
 
 ## Core Skills & Specialization
 - **Software Development Practices/Methodologies:** Agile, Extreme Programming, CI/CD(Trunk Based, Continuous Delivery/Deployment), DevOps, Design Review, Code Review
-- **Design Principles:** Clean Code, SOLID, GRASP, LoD, DRY(AHA), YAGNI
+- **Design Principles:** Clean Code, SOLID, GRASP, LoD
 - **Desing Patterns:** GoF, DI, IoC.
 - **Architecture:** DDD, Clean Architecture, Event Sourcing, CQRS, Microservices, Jamstack
 - **Domains**: Gambling, Affiliate Marketing, HR Tech, Property Tech
@@ -14,7 +14,7 @@
 - **Server side**: Node.js/Nest.js, GraphQL/Apollo, Go, Strapi
 - **DB**: PostrgeSQL, Mongo
 - **Monorepo**: Rush.js, pnpm
-- **Testing**: Storybook, Chromatic, Jest, Vitest, React Testing Library, Playwright, Wiremock, msw
+- **Testing**: Storybook, Chromatic, Vitest, React Testing Library, Playwright, Bruno
 - **Code Quality**: ESlint, Prettier, SonarCloud, Danger.js, jscpd, unimported
 - **IT Operations**: GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
 
