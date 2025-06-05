@@ -16,7 +16,7 @@
 - **Monorepo**: Rush.js, pnpm
 - **Testing**: Storybook, Chromatic, Vitest, React Testing Library, Playwright, Bruno
 - **Code Quality**: ESlint, Prettier, SonarCloud, Danger.js, jscpd, unimported
-- **IT Operations**: GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, GCP
+- **IT Operations**: GitLab CI, Bitbucket CI, GutHub Actions, Docker, Kubernetes, Graphana, Kibana, Sentry, GCP
 
 ## Additional Skills and Specialization
 - **Engineering Culture**: Knowledge Sharings, Playbook Maintanance, Continuous Learning
