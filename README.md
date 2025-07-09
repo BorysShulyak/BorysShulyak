@@ -21,16 +21,6 @@
 ## Additional Skills and Specialization
 - **Engineering Culture**: Knowledge Sharings, Playbook Maintanance, Continuous Learning
 
-## Craft
-
-| Project                    | Descriptiobn                                      |
-|------------------------------|--------------------------------------------------|
-| 📚 [Runespoor Archive: Engineering Playbook](https://runespoor-engineering.github.io/runespoorstack/docs/engineering-playbook/engineering-playbook-checklist) | Runespoor Archive is a set of documents that may help you to increase overall efficiency for team members and the whole team in general, and to strive to be better engineers |
-📝 [Runespoor Changelog Manager](https://github.com/runespoor-engineering/runespoorstack/tree/main/cli/changelog) | Managing changelogs and semantic versioning in single repositories, particularly optimized for Continuous Integration and Trunk Based Development workflows. |
-| [Runespoor ESlint CLI](https://github.com/runespoor-engineering/cli-eslint-disable) | The Runespoor CLI for smooth eslint integration, migration, and management. |
-| 🚯 [Runespoor Eslint Config](https://www.npmjs.com/package/@runespoorstack/eslint-config) | Battle-tested, ready for production set of Runespoor ESlint configs. |
-| ⌚ [Runespoor Feature Toggles](https://www.npmjs.com/package/@runespoorstack/feature-toggles-imperative) | Imperative feature toggles as code for JavaScript and TypeScript. |
-| 📐 [Strapi Formula Field](https://market.strapi.io/plugins/strapi-plugin-field-formula) | A Custom Field plugin for Strapi Headless CMS that provides an integration with powerful math library. |
 ## 💕 Special Thanks
 
 I want to say thank you to the best woman in the world, **my wife Diana** for her love, daily support, motivation, and inspiration.
